@@ -1,20 +1,10 @@
-### Hi there 👋
+Hi there 👋 I'm Y.Yamamoto!
 
-<!--
-**tuki0918/tuki0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Software Engineer who enjoys keeping systems reliable and stable.
 
-Here are some ideas to get you started:
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,vitest,py,aws,gcp)](https://skillicons.dev), …and more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p>
-<img src="https://media.giphy.com/media/EatwJZRUIv41G/source.gif">
-</p>
+## Interests
+`3D Modeling (Blender)`, `DIY Electronics`, `CTF`, `Traveling`, `Onsen`, `Simulator Games`
