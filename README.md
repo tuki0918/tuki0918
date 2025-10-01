@@ -9,4 +9,4 @@ MBTI: `INFP-A`
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,vitest,py,aws,gcp)](https://skillicons.dev) …and more!
 
 ## Interests
-`3D Modeling (Blender)`, `DIY Electronics`, `CTF`, `Strolling`, `Onsen`, `Simulator Games`
+`3D Modeling (Blender)`, `DIY Electronics`, `CTF`, `Strolling`, `Onsen`, `Anime`, `Simulator Games`
