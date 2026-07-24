@@ -1,4 +1,4 @@
-Hi there 👋 I'm Y.Yamamoto!
+Hi there 👋 I'm tuki0918!
 
 # Products
 
@@ -18,3 +18,5 @@ Hi there 👋 I'm Y.Yamamoto!
 | <img src="./assets/icons/eagle-raw-exif-inspector.png" width="20" alt="">&nbsp; **RAW EXIF Metadata** [↗](https://github.com/tuki0918/eagle-raw-exif-inspector) | [![Eagle](https://img.shields.io/badge/Eagle-555?style=flat-square)](#) | <sub>EXIF metadata inspection for images.</sub> | [![Stars](https://img.shields.io/github/stars/tuki0918/eagle-raw-exif-inspector?style=flat-square&label=★&color=555)](https://github.com/tuki0918/eagle-raw-exif-inspector) |
 | <img src="./assets/icons/comfyui-image-tiled-nodes.png" width="20" alt="">&nbsp; **Image Tiled Nodes** [↗](https://github.com/tuki0918/comfyui-image-tiled-nodes) | [![ComfyUI](https://img.shields.io/badge/ComfyUI-555?style=flat-square)](#) | <sub>Tile-based image splitting and reassembly.</sub> | [![Stars](https://img.shields.io/github/stars/tuki0918/comfyui-image-tiled-nodes?style=flat-square&label=★&color=555)](https://github.com/tuki0918/comfyui-image-tiled-nodes) |
 | <img src="./assets/icons/comfyui-image-expand-nodes.png" width="20" alt="">&nbsp; **Image Expand Nodes** [↗](https://github.com/tuki0918/comfyui-image-expand-nodes) | [![ComfyUI](https://img.shields.io/badge/ComfyUI-555?style=flat-square)](#) | <sub>Image expansion and seamless merging.</sub> | [![Stars](https://img.shields.io/github/stars/tuki0918/comfyui-image-expand-nodes?style=flat-square&label=★&color=555)](https://github.com/tuki0918/comfyui-image-expand-nodes) |
+
+[→ Explore all repositories](https://github.com/tuki0918?tab=repositories)
