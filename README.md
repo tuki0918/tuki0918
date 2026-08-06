@@ -1,6 +1,6 @@
 Hi there 👋 I'm tuki0918!
 
-## Products
+## Side Products
 
 I make useful tools for creatives and developers.
 
